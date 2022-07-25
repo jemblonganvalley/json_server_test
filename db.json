@@ -1,4 +1,15 @@
 {
-    "users" : [],
-    "posts" : []
+  "users": [
+    {
+      "email": "evalia@gmail.com",
+      "password": "!_&sayaG4nT3N6",
+      "id": 1
+    },
+    {
+      "email": "evalia@gmail.com",
+      "password": "!_&sayaG4nT3N6",
+      "id": 2
+    }
+  ],
+  "posts": []
 }

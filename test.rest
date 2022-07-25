@@ -1,0 +1,12 @@
+###
+POST http://localhost:3000/users
+Content-Type: application/json
+
+{
+    "email" : "evalia@gmail.com",
+    "password" : "!_&sayaG4nT3N6"
+}
+
+###
+GET http://localhost:3000/users
+Content-Type: application/json
